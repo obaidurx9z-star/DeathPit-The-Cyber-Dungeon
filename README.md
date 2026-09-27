@@ -1,8 +1,8 @@
-# Top-Down Battle Arena
+# DeathPit-The-Cyber-Dungeon
 
 ## Game Description
 
-**Top-Down Battle Arena** is a 2D action/shooter game developed as a university CSE project using **C++** and the **iGraphics** library. The game features multiple levels, enemy AI, puzzles, laser obstacles, power-ups, a boss battle, an AI-controlled clone ability, and a level checkpoint/resume system.
+**DeathPit-The-Cyber-Dungeon** is a 2D action/shooter game developed as a university CSE project using **C++** and the **iGraphics** library. The game features multiple levels, enemy AI, puzzles, laser obstacles, power-ups, a boss battle, an AI-controlled clone ability, and a level checkpoint/resume system.
 
 The game is designed as a top-down battle experience where the player explores different rooms, solves puzzles, defeats enemies, and progresses through increasingly challenging levels.
 
