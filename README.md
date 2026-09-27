@@ -108,23 +108,21 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Main Menu
-_Add screenshot/link here later._
+_Add screenshot/(Main_Menu.jpeg)
 
 ### Level 1
-_Add screenshot/link here later._
+_Add screenshot/(Level1.jpg)
 
 ### Level 2
-_Add screenshot/link here later._
+_Add screenshot/Level2.jpg
 
 ### Level 3 / Boss Battle
-_Add screenshot/link here later._
+_Add screenshot/Level3.jpg
 
-### Clone Ability
-_Add screenshot/link here later._
 
 ## YouTube Link
 
-[CSE Game Project Demo](YOUR_YOUTUBE_LINK_HERE)
+[CSE Game Project Demo]([YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s))
 
 ## Project Report
 
