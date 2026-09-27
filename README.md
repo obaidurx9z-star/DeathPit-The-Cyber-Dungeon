@@ -126,7 +126,7 @@ Make sure you have the following installed:
 
 ## Project Report
 
-[Project Report](YOUR_PROJECT_REPORT_LINK_HERE)
+[Project Report](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s)
 
 ## Technologies Used
 
