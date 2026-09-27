@@ -79,7 +79,7 @@ Make sure you have the following installed:
 | Move Right | `D` |
 | Interact / Activate Puzzle | `E` |
 | Shoot | `Mouse / Existing Fire Control` |
-| Activate Clone (Level 3) | `Activate Clone` button/control on screen |
+| Activate Clone (Level 3) | `Activate Clone` button/'C' |
 
 ### **Game Rules**
 
