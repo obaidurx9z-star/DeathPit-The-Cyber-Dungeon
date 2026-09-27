@@ -120,7 +120,9 @@ Make sure you have the following installed:
 ![Level 3](Level3.jpg)
 ## YouTube Link
 
-[CSE Game Project Demo]([[YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s)])
+
+
+[CSE Game Project Demo]([https://www.youtube.com/watch?v=XXXXXXXX](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s)))])
 
 ## Project Report
 
