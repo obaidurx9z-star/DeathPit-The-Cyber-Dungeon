@@ -102,7 +102,7 @@ Make sure you have the following installed:
 
 1. Shishir
 2. Abir
-3. Majiz
+3. Majid
 4. Obaidur
 
 ## Screenshots
