@@ -126,7 +126,8 @@ Make sure you have the following installed:
 
 ## Project Report
 
-[Project Report](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s)
+[Project Report](Death_Pit_Final_Project_Report_Boxed.docx)
+
 
 ## Technologies Used
 
