@@ -108,18 +108,16 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Main Menu
-_Add screenshot/(Main_Menu.jpeg)
+![Main Menu](Main_Menu.jpeg)
 
 ### Level 1
-_Add screenshot/(Level1.jpg)
+![Level 1](Level1.jpg)
 
 ### Level 2
-_Add screenshot/Level2.jpg
+![Level 2](Level2.jpg)
 
 ### Level 3 / Boss Battle
-_Add screenshot/Level3.jpg
-
-
+![Level 3](Level3.jpg)
 ## YouTube Link
 
 [CSE Game Project Demo]([[YOUR_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=GR9N4HO2GzA&t=16s)])
